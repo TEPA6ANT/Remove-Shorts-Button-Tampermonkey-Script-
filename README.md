@@ -1,15 +1,17 @@
 # Remove "Shorts" Button
-Tampermonkey-Script
+Tampermonkey Script
 
 
-#-ENG-
+# -ENG-
+
 This is a script for the "Tampermonkey" browser extension. Which removes the "Shorts" button from YouTube.
 I created it because sometimes I missed it and instead of "Subscriptions", I clicked on it.
 
 The script is primarily made for myself. And this code is shit. And I'm sure that some programmer is ready to tear my hands off for such code.
 
 
-#-RUS-
+# -RUS-
+
 Это скрипт для расширения для браузера "Tampermonkey". Который убирает кнопку "Shorts" из YouTube.
 Создал его из-за того, что иногда промахивался и вместо "Подписки", нажимал на это.
 
